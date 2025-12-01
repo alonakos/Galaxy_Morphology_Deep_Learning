@@ -1,5 +1,6 @@
 # Final_Project_Group_6  
 # Galaxy Morphology Classification with Deep Learning
+(Transfer Learning and Mixup)
 
 This project is part of the **AAI-521 Applied Computer Vision for AI** course in the Applied Artificial Intelligence Program at the University of San Diego (USD).
 
