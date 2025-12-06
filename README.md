@@ -30,6 +30,15 @@ The objective of this project is to build and evaluate deep-learning models capa
 
 ---
 
+
+Results 
+
+<img width="922" height="947" alt="baseline_cnn_confusion_matrix" src="https://github.com/user-attachments/assets/2a5d2b53-9cf0-4100-8d2d-d2dd1f03e491" />
+
+
+
+---
+
 ## Installation
 
 Clone the repository:
@@ -37,7 +46,3 @@ Clone the repository:
 ```bash
 git clone https://github.com/yourusername/Final_Project_Group_6.git
 cd Final_Project_Group_6
-
-Results 
-
-<img width="922" height="947" alt="baseline_cnn_confusion_matrix" src="https://github.com/user-attachments/assets/2a5d2b53-9cf0-4100-8d2d-d2dd1f03e491" />
