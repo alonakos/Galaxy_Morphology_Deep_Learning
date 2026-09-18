@@ -1,6 +1,8 @@
-# Final_Project_Group_6  
+# Galaxy Morphology Classification with Deep Learning
 
 This project is part of the **AAI-521 Applied Computer Vision for AI** course in the Applied Artificial Intelligence Program at the University of San Diego (USD).
+
+<img width="1519" height="723" alt="Screenshot 2026-09-17 at 5 15 40 PM" src="https://github.com/user-attachments/assets/ef7a4e2a-4ea3-4f5f-8269-3c9cecce4af0" />
 
 ---
 
